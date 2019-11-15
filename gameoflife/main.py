@@ -61,7 +61,7 @@ def checkIfCycled(history) :
 
 
 inputArray = [[1,0,0,1], [1, 0, 0], [0, 1, 1, 1]]
-#inputArray2 = [[0,0,0], [1, 1, 1], [0, 0, 0]]
-playGame(inputArray, True)
+inputArray2 = [[0,5,0], [1, 1, 1], [0, 0, 0]]
+playGame(None, True)
 
 
